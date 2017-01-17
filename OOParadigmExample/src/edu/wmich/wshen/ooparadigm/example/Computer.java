@@ -28,13 +28,13 @@ public class Computer {
 //        return true;
 //    }
 	
-	public static void main(String[] args)
-	{
-		Computer c = new Computer();
-		PowerVia3Legs p = new PowerVia3Legs();
-		c.setPower(p);
-		c.turn_on();
-	}
+//	public static void main(String[] args)
+//	{
+//		Computer c = new Computer();
+//		PowerVia3Legs p = new PowerVia3Legs();
+//		c.setPower(p);
+//		c.turn_on();
+//	}
 
 
 
